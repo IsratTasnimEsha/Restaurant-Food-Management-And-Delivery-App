@@ -22,6 +22,7 @@ The Restaurant Food Management and Delivery App is a comprehensive solution desi
 - Sign up as a seller using a verified phone number with OTP verification.
 - Access the seller dashboard after sign-in to manage your account.
 - Edit profile details and reset password when needed.
+- If there are no pending orders, sellers can delete their accounts.
 
 #### Food Item Management
 
@@ -29,22 +30,14 @@ The Restaurant Food Management and Delivery App is a comprehensive solution desi
 - Update and modify food information according to changes or updates.
 - Conveniently remove food items that are no longer available.
 
-#### Restaurant Details and Security
-
-- Enhance your restaurant's profile by uploading appealing photos.
-- Opt to change your account password for added security.
-
-#### Account Deletion
-
-- If there are no pending orders, sellers can delete their accounts.
-
 ### For Food Consumers:
 
 #### Account Management
 
 - Sign up as a buyer using a verified phone number with OTP verification.
-- Access the buyer dashboard after sign-in to manage your account.
-- Edit profile details when needed.
+- Access the seller dashboard after sign-in to manage your account.
+- Edit profile details and reset password when needed.
+- If there are no pending orders, sellers can delete their accounts.
 
 #### Restaurant Exploration
 
@@ -120,10 +113,12 @@ The Restaurant Food Management and Delivery App is developed using Java for func
   </tr>
 </table>
 
+
 ## Food Seller UI
 
 ### Account Management
-| ![Screenshot_2025-06-25-01-04-17-863_com example foodforyou](https://github.com/user-attachments/assets/3f0ad14f-b483-4f9d-8b92-60ceea14c779) | ![Screenshot_2025-06-25-01-05-17-321_com example foodforyou](https://github.com/user-attachments/assets/2b478f68-3a61-4e5a-bc14-242391b704a9) | ![Screenshot_2025-06-25-01-05-28-767_com example foodforyou](https://github.com/user-attachments/assets/ffbde3c7-d6e2-4933-aba3-8ee891f02f27) |
+
+| ![Screenshot_2025-06-25-01-04-17-863_com example foodforyou](https://github.com/user-attachments/assets/796b93cb-b7f0-4a20-9270-d5cbd8a9f173) | ![Screenshot_2025-06-25-01-05-17-321_com example foodforyou](https://github.com/user-attachments/assets/3f497171-8ead-4346-9a48-3f8c3747ada6) | ![Screenshot_2025-06-25-01-05-28-767_com example foodforyou](https://github.com/user-attachments/assets/40b4ddc4-2ea1-4493-ab02-f65a07959cae) |
 |---|---|---|
 | ![Screenshot 1](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/c47a14db-8b4f-4bc5-b126-c87413711c9c) | ![Screenshot 2](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/985f041c-c087-4de5-8292-489c6b0e4f15) | ![Screenshot 3](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/dfab8de6-f487-4753-9322-75d7b7743e12) |
 |---|---|---|
@@ -131,10 +126,18 @@ The Restaurant Food Management and Delivery App is developed using Java for func
 
 ### Food Item Management
 
-| ![Screenshot 3](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/cc636e2d-b991-4991-8684-23b330643622) | ![Screenshot 2](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/b52269e0-903a-4280-85ba-275a4b1a4139) | ![Screenshot 4](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/dbcce8bf-7e81-47e6-b9f5-195477482f30) |
+| ![Screenshot 1](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/6f2d91f9-ee38-45d1-85fd-e3b73ae21c90) | ![Screenshot 2](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/b52269e0-903a-4280-85ba-275a4b1a4139) | ![Screenshot 3](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/cc636e2d-b991-4991-8684-23b330643622) |
 |---|---|---|
+| ![Screenshot 4](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/dbcce8bf-7e81-47e6-b9f5-195477482f30) | | |
 
 ## Food Consumer UI
+
+### Account Management
+
+| ![Screenshot_2025-06-25-01-06-34-253_com example foodforyou](https://github.com/user-attachments/assets/6412f234-35a8-4da4-8544-368116c78b75) | ![Screenshot_2025-06-25-01-06-49-768_com example foodforyou](https://github.com/user-attachments/assets/f7311498-e1d7-4ce1-8e37-99e8d0cad8f2) | ![Screenshot_2025-06-25-01-06-55-811_com example foodforyou](https://github.com/user-attachments/assets/2432d36c-2955-4386-ac21-3ae442c29cb9) |
+|---|---|---|
+| ![Screenshot 8](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/678e3a3e-34c8-4057-b2b1-37d2954e63ed) | ![Screenshot_2025-06-25-01-07-16-809_com example foodforyou](https://github.com/user-attachments/assets/dcdc3a43-9516-4a01-9c9a-ea246b3d202a) | ![Screenshot_2025-06-25-01-07-36-926_com example foodforyou](https://github.com/user-attachments/assets/a8a6e142-7f54-4419-8e05-c99f1d08179b) |
+|---|---|---|
 
 ### Restaurant Exploration
 
@@ -148,7 +151,7 @@ The Restaurant Food Management and Delivery App is developed using Java for func
 
 ### Order Placement
 
-| ![Screenshot 7](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/5030b6ef-0f45-4bd4-ae71-0747cbb78fc4) | ![Screenshot 8](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/678e3a3e-34c8-4057-b2b1-37d2954e63ed) | ![Screenshot 9](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/99afd899-3d83-4284-b924-821321a770d0) |
+| ![Screenshot 7](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/5030b6ef-0f45-4bd4-ae71-0747cbb78fc4) |  | ![Screenshot 9](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/99afd899-3d83-4284-b924-821321a770d0) |
 |---|---|---|
 | ![Screenshot 10](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/413cf918-c0e3-4347-a604-b47534e8433b) | ![Screenshot 11](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/237e4d90-203f-4029-a947-2d2fd2337469) | ![Screenshot 12](https://github.com/IsratTasnimEsha/Restaurant-Food-Management-And-Delivery/assets/88322977/64de9c9f-36dc-4bc7-a3fb-fa45f92e70e8) |
 
